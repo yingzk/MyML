@@ -2,7 +2,7 @@
 
 这个Repository包含了我在学习机器学习过程中的一些总结性内容
 
-### Decision Tree
+### A: Decision Tree
 是我之前在学校做的一次决策树基础知识的学术讨论发言
 
 ### 0: [Distance & Similarity] ML中相似性度量和距离的计算
