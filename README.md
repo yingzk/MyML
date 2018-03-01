@@ -1,11 +1,13 @@
-## My Machine Learning Way
+# My Machine Learning Way
 
-这个repository包含了我在学习机器学习过程中的一些总结性内容
+这个Repository包含了我在学习机器学习过程中的一些总结性内容
 
-#### 0: [Distance & Similarity] ML中相似性度量和距离的计算
+### 0: [Distance & Similarity] ML中相似性度量和距离的计算
 
 https://www.yingjoy.cn/446.html
 
+### Decision Tree
+是我之前在学校做的一次决策树基础知识的学术讨论发言
 
 <br /><br /><br />
 如果问题还望指正
