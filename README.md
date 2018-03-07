@@ -10,7 +10,7 @@
 博客: https://www.yingjoy.cn/446.html
 
 ### 1: [Logistic Regession] Logistic 回归算法及Python实现
-博客: 
+博客: https://www.yingjoy.cn/451.html
 
 
 <br /><br /><br />
