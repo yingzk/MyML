@@ -12,6 +12,9 @@
 ### 1: [Logistic Regession] Logistic 回归算法及Python实现
 博客: https://www.yingjoy.cn/451.html
 
+### 2: [Decision Tree Algorithms]三种决策树算法（ID3, CART, C4.5）及Python实现
+博客: https://www.yingjoy.cn/457.html
+
 
 <br /><br /><br />
 
