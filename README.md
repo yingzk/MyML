@@ -15,6 +15,9 @@
 ### 2: [Decision Tree Algorithms]三种决策树算法（ID3, CART, C4.5）及Python实现
 博客: https://www.yingjoy.cn/457.html
 
+### 3: [Bayes]贝叶斯分类器及Python实现
+博客: https://www.yingjoy.cn/471.html
+
 
 <br /><br /><br />
 
