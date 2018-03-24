@@ -6,7 +6,7 @@
 是我之前在学校做的一次决策树基础知识的学术讨论发言
 
 ### B: [Gradient Descent] 梯度下降
-博客: 
+博客: https://www.yingjoy.cn/480.html
 
 ### 0: [Distance & Similarity] ML中相似性度量和距离的计算
 
