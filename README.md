@@ -5,6 +5,9 @@
 ### A: [Decision Tree] 决策树基本介绍
 是我之前在学校做的一次决策树基础知识的学术讨论发言
 
+### B: [Gradient Descent] 梯度下降
+博客: 
+
 ### 0: [Distance & Similarity] ML中相似性度量和距离的计算
 
 博客: https://www.yingjoy.cn/446.html
