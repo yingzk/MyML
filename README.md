@@ -25,7 +25,7 @@
 博客: https://www.yingjoy.cn/471.html
 
 ### Kaggle
-这个目录包含了我在Kaggle竞赛中的一些不是很好的经验，仅供参
+这个目录包含了我在Kaggle竞赛中的一些简单经验，仅供参
 
 <br /><br /><br />
 
